@@ -1,0 +1,77 @@
+.resimSlider{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+.container h2{
+    text-align:  center;
+}
+.hakkimizda{
+    background: white;
+}
+.ayrac{
+    border: none;
+    border: 3px solid black;
+    max-width: 250px;
+    margin:25px auto;
+    
+  
+}
+.ibeyaz{
+    color: black;
+    position: relative;         /*pozisizyonu sabitle*/
+    top:-60px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.igri{
+    color: black;
+    position: relative;         /*pozisizyonu sabitle*/
+    top:-60px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+    
+   
+}
+.ekıbımız{
+    background: #f2f2f2;
+}
+.ekipCard>:hover{
+    opacity:0.8;
+    
+}
+.Galerı{
+
+    background-color: #f2f2f2;
+}
+.figure:hover{
+ opacity: 0.8;
+}
+.ınput{
+    margin-top: 10px;
+}
+.area{
+    margin-top: 10px;
+}
+.text1{
+    margin-top: 13px;
+    
+}
+.text2{
+    margin-top: 100px;
+}
+.buton{
+    margin-top: 15px;
+    width: 180px;
+    margin-left: 180px;
+    padding-bottom: 10px;
+    background-color: rgb(102, 102, 226);
+    color: rgb(243, 243, 243);
+    font-size: 18px;
+}
+
+
